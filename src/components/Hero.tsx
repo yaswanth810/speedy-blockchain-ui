@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { Github, Linkedin, Mail, ChevronDown } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import profileImage from "@/assets/profile-avatar.png";
+import profileImage from "@/assets/yaswanth-photo.png";
 
 const Hero = () => {
   const scrollToSection = (id: string) => {
